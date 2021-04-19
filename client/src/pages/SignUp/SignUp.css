@@ -1,0 +1,9 @@
+.signup {
+  display: flex;
+  justify-items: center;
+  align-items: center;
+}
+
+.alert {
+  margin-top: 12%;
+}

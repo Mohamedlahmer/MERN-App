@@ -1,0 +1,5 @@
+export const GET_FEEDBACKS = "GET_FEEDBACKS";
+export const FAIL_FEEDBACK = "FAIL_FEEDBACK";
+export const LOAD_FEEDBACK = "LOAD_FEEDBACK";
+export const GET_FEEDBACK = "GET_FEEDBACK";
+export const HIDE_FEEDBACK = "HIDE_FEEDBACK";

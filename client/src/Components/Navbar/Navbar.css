@@ -1,0 +1,39 @@
+.text-small {
+  font-size: 0.9rem !important;
+}
+
+.header {
+  background-color: #00d2ff;
+  background-image: linear-gradient(to right, #00d2ff 0%, #3a7bd5 100%);
+}
+
+.header .navbar {
+  background: linear-gradient(135deg, #21a9af, #172a74);
+  /* background: linear-gradient(to bottom, #172a74, #21a9af); */
+  background-color: #184e8e;
+}
+
+.h6 {
+  color: white;
+  font-size: 27px !important;
+  font-family: "New Tegomin", serif !important;
+}
+
+.nav-link {
+  color: white !important;
+  font-size: 20px;
+}
+
+a:link {
+  text-decoration: none !important;
+}
+
+.container {
+  padding: 8px 0px !important;
+}
+
+.nameAvatar {
+  color: white;
+  padding-top: 5px;
+  font-family: "Abel", sans-serif;
+}

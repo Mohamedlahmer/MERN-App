@@ -1,0 +1,30 @@
+.album {
+  display: flex;
+  justify-content: space-around;
+  margin: 2% 15%;
+}
+
+.btnback {
+  display: flex;
+  justify-content: flex-start;
+  margin: 2% 40%;
+}
+.titleplace {
+  margin: 2% 8%;
+  color: black;
+}
+
+.placepage {
+  margin: 0.1% 18%;
+}
+
+.feedbackadd {
+  margin: 2% 0%;
+}
+
+.fdb {
+  font-family: "Cairo", sans-serif;
+  font-size: 30px;
+  font-weight: 300;
+  margin-top: 2%;
+}
